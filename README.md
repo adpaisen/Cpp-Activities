@@ -1,2 +1,9 @@
-# Cpp-Activities
-A collection of C++ activities, exercises, and mini projects created to strengthen programming fundamentals, problem-solving skills, and understanding of core C++ concepts.
+# C++ Activities
+
+A collection of C++ exercises and mini projects created while learning and improving my C++ programming skills.
+
+## Activities
+
+| Activity    | Description |
+|-------------|-------------|
+| Activity 01 | Hello World Program |

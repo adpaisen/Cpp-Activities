@@ -7,3 +7,4 @@ A collection of C++ exercises and mini projects created while learning and impro
 | Activity    | Description |
 |-------------|-------------|
 | Activity 01 | Hello World Program |
+| Activity 02 | Calculator Program |
